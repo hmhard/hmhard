@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/miniyahilk" target="blank"><img src="https://img.shields.io/twitter/follow/miniyahilk?logo=twitter&style=for-the-badge" alt="miniyahilk" /></a> </p>
 
-- 🔭 I’m currently working on [SAPS](https://saps.ethernet.edu.et) 
+- 🔭 I’m currently working on [Student Admission and Placement System](https://saps.ethernet.edu.et) 
 
 - 🌱 I’m currently learning **Spring, .Net**
 
