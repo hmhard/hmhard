@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/miniyahilk" target="blank"><img src="https://img.shields.io/twitter/follow/miniyahilk?logo=twitter&style=for-the-badge" alt="miniyahilk" /></a> </p>
 
-- 🔭 I’m currently working on **SAPS**
+- 🔭 I’m currently working on [https://www.miniyahilkebede.per](https://www.miniyahilkebede.per)
 
 - 🌱 I’m currently learning **Spring .Net**
 
@@ -15,7 +15,7 @@
 
 - 🤝 I’m looking for help with **FMS**
 
-- 👨‍💻 All of my projects are available at [https://www.miniyahilkebede.per](https://www.miniyahilkebede.per)
+- 👨‍💻 All of my projects are available at [https://saps.ethernet.edu.et](SAPS)
 
 - 💬 Ask me about **React, Vue, Symfony, Django,Flutter**
 
