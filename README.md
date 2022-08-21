@@ -9,11 +9,7 @@
 
 - 🔭 I’m currently working on [Student Admission and Placement System](https://saps.ethernet.edu.et) 
 
-- 🌱 I’m currently learning **Spring, .Net**
-
 - 👨‍💻 All of my projects are available at [https://www.miniyahilkebede.per](https://www.miniyahilkebede.per)
-
-- 💬 Ask me about **React, Vue, Symfony, Django,Flutter**
 
 - 📫 How to reach me **miniye6453@gmail.com**
 
