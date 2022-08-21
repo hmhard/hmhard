@@ -11,8 +11,6 @@
 
 - 🌱 I’m currently learning **Spring, .Net**
 
-- 🤝 I’m looking for help with **FMS**
-
 - 👨‍💻 All of my projects are available at [https://www.miniyahilkebede.per](https://www.miniyahilkebede.per)
 
 - 💬 Ask me about **React, Vue, Symfony, Django,Flutter**
