@@ -32,7 +32,7 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hmhard&show_icons=true&locale=en&count_private=true&theme=radical&include_all_commits=true" alt="hmhard" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hmhard&include_all_commits=true&count_private=true" alt="hmhard" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hmhard" alt="hmhard" /></p>
 
 # My Certifications
 - <a href="https://ude.my/UC-64afa9ee-10fc-4cff-8865-3423f1b26921/" target="_blank" rel="noreferrer">React - The Complete Guide (incl Hooks, React Router, Redux) -Udemy </a>
