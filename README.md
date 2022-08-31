@@ -28,7 +28,7 @@
 
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hmhard&show_icons=true&locale=en&layout=compact&hide=html,SCSS,CSS,Less,Hack,TSQL&langs_count=6&count_private=true" alt="hmhard" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hmhard&show_icons=true&locale=en&layout=compact&hide=html,SCSS,JavaScript, GCSS,Less,Hack,TSQL&langs_count=6&count_private=true" alt="hmhard" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hmhard&show_icons=true&locale=en&count_private=true&theme=radical&include_all_commits=true" alt="hmhard" /></p>
 
