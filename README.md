@@ -40,5 +40,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hmhard&show_icons=true&locale=en" alt="hmhard" /></p>
 
 <p>
-  <img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=mikebede&theme=vue-dark" alt="hmhard" />
+  <img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=hmhard&theme=vue" alt="hmhard" />
 </p>
