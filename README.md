@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Miniyahil Kebede</h1>
 <h3 align="center">A passionate Fullstack developer from Ethiopia </h3>
-
+<div align="center">
+  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
+</div>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hmhard&label=Profile%20views&color=0e75b6&style=flat" alt="hmhard" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hmhard" alt="hmhard" /></a> </p>
@@ -37,4 +39,6 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hmhard&show_icons=true&locale=en" alt="hmhard" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hmhard&" alt="hmhard" /></p>
+<p>
+  <img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=mikebede&theme=vue-dark" alt="hmhard" />
+</p>
