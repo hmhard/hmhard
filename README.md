@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Miniyahil Kebede</h1>
-<h3 align="center">A passionate Fullstack developer from **Ethiopia** </h3>
+<h3 align="center">A passionate Fullstack developer from Ethiopia </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hmhard&label=Profile%20views&color=0e75b6&style=flat" alt="hmhard" /> </p>
 
@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/miniyahilk" target="blank"><img src="https://img.shields.io/twitter/follow/miniyahilk?logo=twitter&style=for-the-badge" alt="miniyahilk" /></a> </p>
 
-- 🔭 I’m currently working on [Student Admission and Placement(SAPS))](https://saps.ethernet.edu.et/)
+- 🔭 I’m currently working on [Student Admission and Placement(SAPS)](https://saps.ethernet.edu.et/)
 
 - 👨‍💻 All of my projects are available at [https://miniyahilkebede.per](https://miniyahilkebede.per)
 
@@ -27,7 +27,6 @@
 <a href="https://stackoverflow.com/users/12312652" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="12312652" height="30" width="40" /></a>
 <a href="https://codesandbox.com/miniye6453" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="miniye6453" height="30" width="40" /></a>
 <a href="https://kaggle.com/mikebede" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="mikebede" height="30" width="40" /></a>
-<a href="https://fb.com/miniyahilmike.kebede" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="miniyahilmike.kebede" height="30" width="40" /></a>
 <a href="https://medium.com/@miniye" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@miniye" height="30" width="40" /></a>
 </p>
 
