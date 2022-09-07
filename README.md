@@ -14,7 +14,6 @@
 
 - 📫 How to reach me **miniye6453@gmail.com**
 
-- ⚡ Fun fact **Here i am**
 
 
 
