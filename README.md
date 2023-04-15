@@ -1,5 +1,5 @@
 <h1 align="center">Hello world 👋, I'm Miniyahil Kebede</h1>
-<h3 align="center">A passionate Software Engineer from Ethiopia 😷 </h3>
+<h3 align="center">A passionate Software Engineer from Ethiopia </h3>
 <div align="center">
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
 </div>
