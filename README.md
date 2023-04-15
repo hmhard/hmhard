@@ -8,7 +8,7 @@
 <p align="center"> <a href="https://twitter.com/miniyahilk" target="blank"><img src="https://img.shields.io/twitter/follow/miniyahilk?logo=twitter&style=for-the-badge" alt="miniyahilk" /> <img src="https://komarev.com/ghpvc/?username=hmhard&label=Profile%20views&color=0e75b6&style=flat" alt="hmhard" /></a>
 </p>
 
-- 🔭 find my latest resume here [Resume](https://drive.google.com/file/d/1DguQ3OecVPIK__RlsdJkPIgUWmaQxth6/view?usp=sharing)
+- 🔭 Find my latest resume here [Resume](https://drive.google.com/file/d/1DguQ3OecVPIK__RlsdJkPIgUWmaQxth6/view?usp=sharing)
 
 - 🔭 I’m currently working on [Student Admission and Placement(SAPS)](https://saps.ethernet.edu.et/)
 
