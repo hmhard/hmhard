@@ -10,7 +10,7 @@
 
 - Full-stack Software Engineer with 3+ years of experience in designing and developing web and mobile applications using modern technologies.
 
-- 🔭 Find my latest resume here [Resume](https://drive.google.com/file/d/1DguQ3OecVPIK__RlsdJkPIgUWmaQxth6/view?usp=sharing)
+- 🔭 Find my latest resume here [Resume](https://drive.google.com/file/d/1pVZEj9pectKGJ3e5jcK2TBu1guLG3ASG/view?usp=sharing)
 
 - 🔭 I’m currently working on [Student Admission and Placement(SAPS)](https://saps.ethernet.edu.et/)
 
