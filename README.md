@@ -125,5 +125,5 @@
   </div>
 </td></tr></table>  
 <p>
-  <img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=hmhard&theme=vue" alt="hmhard" />
+  <img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=hmhard" alt="hmhard" />
 </p>
