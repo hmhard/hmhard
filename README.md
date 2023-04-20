@@ -125,6 +125,5 @@
   </div>
 </td></tr></table>  
 <p>
-  <img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=hmhard" alt="hmhard" />
+  <img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=hmhard&mode=weekly" alt="hmhard" />
 </p>
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=hmhard)](https://github.com/anuraghazra/github-readme-stats)
