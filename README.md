@@ -110,10 +110,6 @@
 <a href="https://medium.com/@miniye" target="_blank">
 <img src=https://img.shields.io/badge/medium-%23292929.svg?&style=for-the-badge&logo=medium&logoColor=white alt=medium style="margin-bottom: 5px;" />
 </a>  
-  <a href="https://stackoverflow.com/users/12312652" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="12312652" height="30" width="40" /></a>
-<a href="https://codesandbox.com/miniye6453" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="miniye6453" height="30" width="40" /></a>
-<a href="https://kaggle.com/mikebede" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="mikebede" height="30" width="40" /></a>
-
 </div>  
   
 
