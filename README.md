@@ -117,11 +117,11 @@
 
 <table><tr><td valign="top" width="50%">
 <div align="center"> 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hmhard&show_icons=true&hide=HTML,SCSS,Less,TSQL,Hack,EJS&locale=en&count_private=true&include_all_commits=true&layout=compact&langs_count=10&hide_progress=false" alt="hmhard" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hmhard&show_icons=true&hide=HTML,SCSS,Less,TSQL,Hack,EJS&locale=en&count_private=true&include_all_commits=true&layout=compact&langs_count=10&hide_progress=false&hide_border=true" alt="hmhard" /></p>
   </div>
 </td><td valign="top" width="50%">
   <div align="center"> 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hmhard&show_icons=true&locale=en&count_private=true&include_all_commits=true" alt="hmhard" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hmhard&show_icons=true&locale=en&count_private=true&include_all_commits=true&hide_border=true" alt="hmhard" /></p>
   </div>
 </td></tr></table>  
 <p>
