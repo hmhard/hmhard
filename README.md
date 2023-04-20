@@ -127,3 +127,4 @@
 <p>
   <img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=hmhard" alt="hmhard" />
 </p>
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=hmhard)](https://github.com/anuraghazra/github-readme-stats)
