@@ -8,7 +8,7 @@
 <p align="center"> <a href="https://twitter.com/miniyahilk" target="blank"><img src="https://img.shields.io/twitter/follow/miniyahilk?logo=twitter&style=for-the-badge" alt="miniyahilk" /> <img src="https://komarev.com/ghpvc/?username=hmhard&label=Profile%20views&color=0e75b6&style=flat" alt="hmhard" /></a>
 </p>
 
-- Full-stack Software Engineer with 4+ years of experience in designing and developing web and mobile applications using modern technologies.
+- About me:  Software Engineer with 4+ years of experience
 
 - 🔭 I’m currently working on [Student Admission and Placement(SAPS)](https://saps.ethernet.edu.et/)
 
