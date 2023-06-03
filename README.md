@@ -12,7 +12,7 @@
 
 - 🔭 I’m currently working on [Student Admission and Placement(SAPS)](https://saps.ethernet.edu.et/)
 
-- 👨‍💻 All of my projects are available at [https://miniyahilkebede.per](https://miniyahilkebede.per)
+- 👨‍💻 All of my projects are available at [here](https://miniyahilkebede.vercel.app/)
 
 - 📫 How to reach me **miniye6453@gmail.com**
 
