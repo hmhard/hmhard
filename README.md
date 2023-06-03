@@ -124,5 +124,5 @@
   </div>
 </td></tr></table>  
 <p>
-  <img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=hmhard" alt="hmhard" />
+  <img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=hmhard&show_icons=true&locale=en&count_private=true&include_all_commits=true&hide_border=true" alt="hmhard" />
 </p>
