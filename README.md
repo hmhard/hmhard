@@ -120,7 +120,7 @@
   </div>
 </td><td valign="top" width="50%">
   <div align="center"> 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hmhard&show_icons=true&locale=en&count_private=true&include_all_commits=true&hide_border=true&size_weight=0.5&count_weight=0.5" alt="hmhard" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hmhard&show_icons=true&locale=en&count_private=true&include_all_commits=true&hide_border=true" alt="hmhard" /></p>
   </div>
 </td></tr></table>  
 <p>
