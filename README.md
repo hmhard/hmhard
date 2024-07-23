@@ -90,7 +90,7 @@
 
 <table><tr><td valign="top" width="50%">
 <div align="center"> 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hmhard&show_icons=true&hide=HTML,SCSS,Less,TSQL,Hack,EJS,css&locale=en&count_private=true&number_format=short&include_all_commits=true&layout=compact&langs_count=6&hide_progress=false&hide_border=true" alt="hmhard" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hmhard&show_icons=true&hide=HTML,SCSS,Less,TSQL,Hack,EJS,css&locale=en&count_private=true&number_format=short&include_all_commits=true&layout=compact&langs_count=8&hide_progress=false&hide_border=true" alt="hmhard" /></p>
   </div>
 </td><td valign="top" width="50%">
   <div align="center"> 
