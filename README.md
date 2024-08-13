@@ -8,9 +8,13 @@
 <p align="center"> <a href="https://twitter.com/miniyahilk" target="blank"><img src="https://img.shields.io/twitter/follow/miniyahilk?logo=twitter&style=for-the-badge" alt="miniyahilk" /> <img src="https://komarev.com/ghpvc/?username=hmhard&label=Profile%20views&color=0e75b6&style=flat" alt="hmhard" /></a>
 </p>
 
+### 👋 Miniyahil's GitHub Profile 👋
+
 - About me:  Software Engineer with 5+ years of experience
 
 - 🔭 I’m currently working on [National Agricultural Datahub(Ag-Hub)](https://datahub.moa.gov.et)
+- 💬 Ask me about Ethiopian, React, Spring Boot, Python
+- 🌱 I’m currently learning Spanish and Rust
 
 - 👨‍💻 All of my projects are available at [here](https://miniyahilkebede.com)
 
@@ -18,7 +22,13 @@
 
 
 <br/>  
+### 🌎 My Languages 🌎
 
+- us English: B2
+- 🇩🇪 AMharic: C2
+- 🤟 Wolaita: Native
+- 🇲🇽 Spanish: A1
+   [A1/B1/...?](http://blog.chatterbug.com/en/how-to-talk-about-language-learning/)
 ## My Skill Set  
 <table><tr><td valign="top" width="33%">
 
