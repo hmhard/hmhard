@@ -9,15 +9,15 @@
 </p>
 
 
-- About me:  Software Engineer with 5+ years of experience
+- About me:  Software Engineer with 7+ years of experience
 
-- 🔭 I’m currently working on [National Agricultural Datahub(Ag-Hub)](https://datahub.moa.gov.et)
+- 🔭 I’m currently working on National and International Level Enterprise Solutions
 - 💬 Ask me about Ethiopia, React, Spring Boot, Python
 - 🌱 I’m currently learning Spanish and Rust
 
 - 👨‍💻 All of my projects are available at [here](https://miniyahilkebede.com)
 
-- 📫 How to reach me **miniye6453@gmail.com**
+- 📫 How to reach me **miniye6453@gmail.com**   Tel: ** +251946553371 **
 
 
 <br/>  
